@@ -1,8 +1,8 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=200&section=header&text=Hey%20there,%20I'm%20Kanni7!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=200&section=header&text=Hey%20there,%20I'm%20Kanishk!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Student+%F0%9F%8E%93+%7C+Curious+Learner;Building+things+one+commit+at+a+time+%F0%9F%9A%80;Always+exploring+new+tech+%F0%9F%94%8D" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Student+%40+IIT+Madras+%F0%9F%8E%93;Python+%7C+Web+Dev+%7C+Linux+%F0%9F%90%A7;Building+things+one+commit+at+a+time+%F0%9F%9A%80;Always+exploring+new+tech+%F0%9F%94%8D" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -15,9 +15,10 @@
 ### 🙋‍♂️ About Me
 
 ```python
-class Kanni7:
+class Kanishk:
+    education  = "Bachelor's @ IIT Madras 🎓"
     role       = "Student & Developer-in-progress"
-    learning   = ["Python", "Web Development", "Git & GitHub"]   # edit me
+    skills     = ["HTML", "CSS", "JavaScript", "Python", "Linux"]
     interests  = ["Problem Solving", "Building Projects", "Tech"]
     goal       = "Turn ideas into real, useful software"
 
@@ -25,17 +26,17 @@ class Kanni7:
         print("Thanks for dropping by! Let's connect 🤝")
 ```
 
-- 🌱 Currently learning **[add here]**
-- 🔭 Working on **[add a project]**
+- 🎓 Pursuing my **Bachelor's at IIT Madras**
+- 🌱 Sharpening my skills in **Python, JavaScript & Web Development**
+- 🐧 Comfortable working in **Linux**
 - 🎯 2026 Goal: **Build 5 projects & contribute to open source**
-- ⚡ Fun fact: **[add something about you]**
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,git,github,vscode,linux&perline=11" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,linux,git,github,vscode&perline=8" />
 </p>
 
 ---
@@ -61,9 +62,7 @@ class Kanni7:
 
 | Project | Description | Tech |
 |---|---|---|
-| 🔹 [Project One](https://github.com/Kanni7) | Short description of what it does | Python |
-| 🔹 [Project Two](https://github.com/Kanni7) | Short description of what it does | HTML/CSS/JS |
-| 🔹 *Coming soon...* | Stay tuned 👀 | — |
+| 🔹 *Coming soon...* | My first projects are on the way 👀 | HTML · CSS · JS · Python |
 
 ---
 
@@ -71,9 +70,6 @@ class Kanni7:
 
 <p align="center">
   <a href="https://github.com/Kanni7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/YOUR_INSTA"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
