@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a1a,100:000000&height=260&section=header&text=KANISHK&fontSize=80&fontColor=C8102E&stroke=C8102E&strokeWidth=1&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a1a,100:000000&height=260&section=header&text=KANISHK%20KANOJIA&fontSize=64&fontColor=C8102E&stroke=C8102E&strokeWidth=1&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1200&color=C8102E&center=true&vCenter=true&width=650&lines=Student+%40+IIT+Madras;Python+%7C+JavaScript+%7C+Linux;Working+in+the+shadows.+Shipping+in+the+light." alt="Typing SVG" />
