@@ -61,14 +61,4 @@
   <a href="https://github.com/Kanni7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
-
-### Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kanni7/Kanni7/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</p>
-
-<p align="center"><i>"Every expert was once a beginner."</i></p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7F00FF&height=120&section=footer" width="100%"/>
