@@ -14,21 +14,10 @@
 
 ### 🙋‍♂️ About Me
 
-```python
-class Kanishk:
-    education  = "Bachelor's @ IIT Madras 🎓"
-    role       = "Student & Developer-in-progress"
-    skills     = ["HTML", "CSS", "JavaScript", "Python", "Linux"]
-    interests  = ["Problem Solving", "Building Projects", "Tech"]
-    goal       = "Turn ideas into real, useful software"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect 🤝")
-```
-
 - 🎓 Pursuing my **Bachelor's at IIT Madras**
 - 🌱 Sharpening my skills in **Python, JavaScript & Web Development**
 - 🐧 Comfortable working in **Linux**
+- 💡 Interested in **problem solving & building real, useful software**
 - 🎯 2026 Goal: **Build 5 projects & contribute to open source**
 
 ---
