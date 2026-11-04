@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,48:115E59,100:38BDF8&height=185&section=header&text=Kanishk%20Kanojia&fontSize=44&fontColor=F8FAFC&fontAlignY=36&desc=IIT%20Madras%20%7C%20Software%20%7C%20Voice%20AI%20%7C%20UI%2FUX&descSize=16&descAlignY=59&animation=fadeIn" alt="Kanishk Kanojia — IIT Madras" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1A0000,100:B00000&height=200&section=header&text=Kanishk%20Kanojia&fontSize=50&fontColor=FF1E1E&fontAlignY=36&desc=IIT%20Madras%20%7C%20Software%20%7C%20Voice%20AI%20%7C%20UI%2FUX&descSize=16&descAlignY=59&animation=twinkling" alt="Kanishk Kanojia, IIT Madras" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+software+that+solves+real+problems;Making+machines+understand+Hinglish;Designing+interfaces+people+enjoy+using" alt="Animated intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1000&color=FF1E1E&center=true&vCenter=true&width=760&lines=Building+software+that+solves+real+problems;Making+machines+understand+Hinglish;Designing+interfaces+people+enjoy+using" alt="Animated intro" />
 </a>
 
 <p>
@@ -20,7 +20,7 @@
 
 I'm an undergraduate at **IIT Madras**, pursuing a BS in **Chemistry**.
 
-I like building things where software meets people: voice-driven interfaces, full-stack web apps, and redesigns that make products easier to use. I'm especially interested in how an interface understands what a user means — not just what they type or say.
+I like building things where software meets people: voice-driven interfaces, full-stack web apps, and redesigns that make products easier to use. I'm especially interested in how an interface understands what a user means and not just what they type or say.
 
 ## What I work on
 
@@ -80,7 +80,7 @@ Interactive SVG interfaces, design systems, and redesigning existing products.
 
 ### [Verna Smart Cockpit + BhashaDrive](https://github.com/Kanni7/Hyundai-COE-Project)
 
-A hackathon prototype for the Hyundai Center of Excellence: a Hyundai Verna cockpit you control by voice in English, Hindi or Hinglish — *"AC 20 pe kar do"*, *"Ghar le chalo"*. A FastAPI voice-NLU engine handles intents, negation, confirmations and personal shortcuts.
+A hackathon prototype for the Hyundai Center of Excellence: a Hyundai Verna cockpit you control by voice in English, Hindi or Hinglish, like *"AC 20 pe kar do"* or *"Ghar le chalo"*. A FastAPI voice-NLU engine handles intents, negation, confirmations and personal shortcuts.
 
 <sub>React · Vite · TypeScript · Python · FastAPI</sub>
 
@@ -89,7 +89,7 @@ A hackathon prototype for the Hyundai Center of Excellence: a Hyundai Verna cock
 
 ### [ChemSAGE](https://chem-sage.vercel.app)
 
-A student portal for the IIT Madras Chemistry Department — approval-based access, real-time messaging, study groups, resources, exam archives, scheduling, and tasks. Team project.
+A student portal for the IIT Madras Chemistry Department with approval-based access, real-time messaging, study groups, resources, exam archives, scheduling, and tasks. Team project.
 
 <sub>Next.js · Supabase · PostgreSQL · Tailwind CSS</sub>
 
